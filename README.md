@@ -23,9 +23,9 @@ This library includes a set of useful functions for various purposes.
 
   #### Registry
   
-  - **```GetRegValue (key, value)```** _read registry data by key and value name_
-  - **```SetRegValue (key, value, data)```** _write registry data_
-  - **```DeleteRegValue (key, value)```** _delete registry data_
+  - **```GetRegData (key, value)```** _read registry data by key and value name_
+  - **```SetRegData (key, value, data)```** _write registry data_
+  - **```DeleteRegData (key, value)```** _delete registry data_
 
  #### Benchmark
  
