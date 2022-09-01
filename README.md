@@ -35,6 +35,5 @@ This library includes a set of useful functions for various purposes.
 
 ### Properties
 
-  - **```VERSION```** _Arlua 0.1.2 alpha
-_
+  - **```VERSION```** _Arlua 0.1.2 alpha_
     
