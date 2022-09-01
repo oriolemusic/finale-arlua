@@ -1,6 +1,6 @@
 --**********************************************--
 --                arlua dll test                --
---               for v0.1.0 alpha               --
+--               for v0.1.2 alpha               --
 --**********************************************--
 
 --[[
@@ -43,7 +43,7 @@
   == PROPERTIES (FIELDS) ========================
 
   VERSION
-    Get current 'arlua' version (Arlua 0.1.0 alpha)
+    Get current 'arlua' version (Arlua 0.1.2 alpha)
 
 
   == MENU COMMANDS ==============================
